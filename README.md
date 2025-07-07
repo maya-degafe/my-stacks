@@ -1,16 +1,23 @@
-# booktok_app
+# MyStacks 📚
 
-A new Flutter project.
+**MyStacks** is a mobile-first Flutter app inspired by BookTok that helps users discover their next great read — from online trends *and* their local libraries.
+
+___
+
+## 🚀 Features [In Development]
+
+- 📖 Quick quiz to personalize reading preferences
+- 👆 Swipe interface for book recs (like/dislike/never read)
+- 📸 Scan your bookshelf to identify and sort books
+- 📚 Library-focused recommendations — not just bestsellers
+- 💡 Clean, minimal UI built with Flutter
+
+___
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/YOUR_USERNAME/booktok_app.git
+cd booktok_app
+flutter pub get
+flutter run
